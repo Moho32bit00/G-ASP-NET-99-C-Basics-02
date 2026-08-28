@@ -88,6 +88,11 @@
             //int PagesText_i = Convert.ToInt32(PagesText);
             #endregion
 
+            #region q7
+            //string yearText = "2023";
+            //int yearText_i = int.Parse(yearText);
+            #endregion
+
         }
     }
 
