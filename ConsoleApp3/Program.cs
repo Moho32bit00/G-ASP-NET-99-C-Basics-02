@@ -51,6 +51,26 @@
             //// if u want to use the override approach uncomment the override region on Book class .
             #endregion
 
+            #region q3
+            //try
+            //{
+            //    int z = 10;
+            //    int s = 0;
+            //    int div = z / s;
+            //}
+            //catch (DivideByZeroException ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            //catch(Exception e)
+            //{
+            //    Console.WriteLine("error try again ");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Done");
+            //}
+            #endregion
 
 
         }
