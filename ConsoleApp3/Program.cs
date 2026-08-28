@@ -72,6 +72,11 @@
             //}
             #endregion
 
+            #region q4
+            //int Pages = 300;
+            //double Pages_d = Pages;
+            #endregion
+
 
         }
     }
