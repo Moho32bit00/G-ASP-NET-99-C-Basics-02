@@ -40,6 +40,16 @@
             //// to display the content uncomment oveeride reigon on Book class .
             #endregion
 
+            #region q2
+            //Book b1 = new Book();
+            //b1.Title = "berserk";
+            //b1.Pages = 4000;
+
+            //Console.WriteLine(b1.ToString());
+            //Console.WriteLine(b1.Equals(b1));
+            //Console.WriteLine(b1.GetHashCode());
+            //// if u want to use the override approach uncomment the override region on Book class .
+            #endregion
 
 
 
