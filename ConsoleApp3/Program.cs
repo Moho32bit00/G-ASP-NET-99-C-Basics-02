@@ -77,6 +77,10 @@
             //double Pages_d = Pages;
             #endregion
 
+            #region q5
+            //double Price = 49.99;
+            //int Price_i = (int)Price;
+            #endregion
 
         }
     }
