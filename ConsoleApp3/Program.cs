@@ -82,6 +82,12 @@
             //int Price_i = (int)Price;
             #endregion
 
+
+            #region q6
+            //string PagesText = "464";
+            //int PagesText_i = Convert.ToInt32(PagesText);
+            #endregion
+
         }
     }
 
