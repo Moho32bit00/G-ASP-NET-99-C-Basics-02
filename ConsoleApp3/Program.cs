@@ -91,7 +91,14 @@
             #region q7
             //string yearText = "2023";
             //int yearText_i = int.Parse(yearText);
+
+            //string badText = "abc";
+            //bool result = int.TryParse(badText, out int BadText_i);
+            //if (result == false)
+            //{
+            //    Console.WriteLine("Invalid Number");
             #endregion
+
 
         }
     }
