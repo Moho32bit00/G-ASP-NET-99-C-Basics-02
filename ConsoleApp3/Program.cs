@@ -99,6 +99,11 @@
             //    Console.WriteLine("Invalid Number");
             #endregion
 
+            #region q8
+            //int Pages = 464;
+            //string pages_s = Convert.ToString(Pages);
+            //Console.WriteLine(pages_s.GetType());
+            #endregion
 
         }
     }
