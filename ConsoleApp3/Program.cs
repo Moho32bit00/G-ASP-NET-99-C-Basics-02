@@ -105,6 +105,15 @@
             //Console.WriteLine(pages_s.GetType());
             #endregion
 
+
+            #region q9 
+            //int copies = 100;
+            //object obj = copies;  // boxing 
+
+            //int copies_2 = (int)obj; // uboxing 
+
+            //Console.WriteLine($"{copies} , {copies_2} , {obj}");
+            #endregion
         }
     }
 
